@@ -24,5 +24,5 @@ Binding is the core of this project. Firstly, image and data binding is used for
 
 ## Demo
 
-![](https://github.com/IonelaTurcuman/AndroidNewsReader/blob/main/demo.gif)
+![](https://github.com/IonelaTurcuman/AndroidNewsReader/blob/main/shortDemo.gif)
 
