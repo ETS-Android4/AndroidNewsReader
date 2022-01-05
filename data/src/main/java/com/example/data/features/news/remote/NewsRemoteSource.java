@@ -12,7 +12,7 @@ import io.reactivex.schedulers.Schedulers;
 
 public class NewsRemoteSource {
 
-    private static final String API_KEY = "67e23308dd2c4d9a96bd9f8f315ecfa7";
+    private static final String API_KEY = "<INSERT-API-KEY>";
     private static final String EN_LANGUAGE_FILTER = "en";
     @NonNull
     private final NewsApi newsApi;

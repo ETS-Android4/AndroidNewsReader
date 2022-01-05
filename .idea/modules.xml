@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/News_Reader.iml" filepath="$PROJECT_DIR$/.idea/modules/News_Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/News_Reader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/News_Reader.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/News_Reader.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/News_Reader.data.iml" />
+    </modules>
+  </component>
+</project>
