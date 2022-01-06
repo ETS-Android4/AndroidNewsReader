@@ -26,3 +26,8 @@ Binding is the core of this project. Firstly, image and data binding is used for
 
 ![](https://github.com/IonelaTurcuman/AndroidNewsReader/blob/main/shortDemo.gif)
 
+
+## Acknowledgements
+
+This project was implemented during the course Advanced Mobile Programming by Google under the guidance of [Mecea Mihai](https://github.com/Misca).
+
