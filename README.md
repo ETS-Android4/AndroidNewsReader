@@ -21,6 +21,8 @@ The main screen of the application uses a RecyclerView to hold the news articles
 
 Binding is the core of this project. Firstly, image and data binding is used for setting the values of each article: the image, the title and the content of the article and the implementation can be found in class ImageBinding.java. Secondly, data binding is used to add the articles in the RecyclerView and the implementation can be found in class RecyclerBindings.java.
 
+The application downloads the latest articles, but if no internet connection is available it will load the articles it has saved in the local memory.
+
 
 ## Demo
 
