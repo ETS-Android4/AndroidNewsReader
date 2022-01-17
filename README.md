@@ -6,8 +6,8 @@ An Android news reader implemented using MVVM (Model-View-ViewModel) design patt
 
 ## General
 
-News Reader is an Android mobile application build using Java. The application takes the latest news articles from www.newsapi.org and displays them to the user. To run the application you would need to generate your own api key on www.newsapi.org and add it inside class NewsRemoteSource.java.
-
+News Reader is an Android mobile application build using Java. The application takes the latest news articles from www.newsapi.org and displays them to the user. To run the application you would need to generate your own api key on www.newsapi.org and add it inside class NewsRemoteSource.java. This application was created for educational purposes.
+ 
 
 ## Implementation details
 
